@@ -1,1 +1,2 @@
-# HUDDLE-PAGE-TASK
+# Huddle-Landing-Page
+Recreation of Huddle Page
